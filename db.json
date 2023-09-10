@@ -1,9 +1,42 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "menu": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng",
+      "price": 15000,
+      "tax": 10,
+      "discount": 15,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet nisl at ex euismod tincidunt. Aliquam erat volutpat. Nunc sit amet metus quis ante iaculis feugiat. Proin rutrum, nisi id dapibus pellentesque, metus augue feugiat dolor, ut molestie massa arcu ac mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas quis gravida ligula. Proin mauris risus, luctus vel imperdiet quis, semper a odio. Mauris et ultrices libero. Nullam tempor efficitur arcu sed finibus."
+    },
+    {
+      "id": 2,
+      "name": "Mie Goreng",
+      "price": 15000,
+      "tax": 10,
+      "discount": 15,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet nisl at ex euismod tincidunt. Aliquam erat volutpat. Nunc sit amet metus quis ante iaculis feugiat. Proin rutrum, nisi id dapibus pellentesque, metus augue feugiat dolor, ut molestie massa arcu ac mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas quis gravida ligula. Proin mauris risus, luctus vel imperdiet quis, semper a odio. Mauris et ultrices libero. Nullam tempor efficitur arcu sed finibus."
+    },
+    {
+      "id": 3,
+      "name": "Telur Dadar",
+      "price": 3000,
+      "tax": 10,
+      "discount": 15,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet nisl at ex euismod tincidunt. Aliquam erat volutpat. Nunc sit amet metus quis ante iaculis feugiat. Proin rutrum, nisi id dapibus pellentesque, metus augue feugiat dolor, ut molestie massa arcu ac mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas quis gravida ligula. Proin mauris risus, luctus vel imperdiet quis, semper a odio. Mauris et ultrices libero. Nullam tempor efficitur arcu sed finibus."
+    },
+    {
+      "name": "Kwetiauw",
+      "price": 10000,
+      "tax": 10,
+      "discount": 15,
+      "id": 4
+    },
+    {
+      "name": "Ayam goreng",
+      "price": 12000,
+      "tax": 10,
+      "discount": 12,
+      "id": 5
+    }
+  ]
 }
